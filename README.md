@@ -18,6 +18,9 @@ Le correcteur orthographique permet de :
 ## Installation
 Assurez-vous d’avoir `gcc` et `make` installés sur votre machine.
 
+## Compilation
+Compiler le projet : `make`
+
 
 ## Utilisation
 ### Étape 1 : Recherche des mots mal orthographiés
